@@ -34,7 +34,7 @@ Make sure you have **Node.js** (v16 or later) installed on your machine.
 git clone https://github.com/jvd-malek/abyaab.git
 
 # Navigate into the project folder
-cd aabyab-website
+cd abyaab
 
 # Install dependencies
 npm install
