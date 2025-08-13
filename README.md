@@ -1,6 +1,6 @@
 # Aabyab Website
 
-![Aabyab Logo](assets/abyaab_logo-HNiYZpYK.png)
+![Aabyab Logo](public/abyaab_logo.png)
 
 **Live Demo:** [abyaab.ir](http://abyaab.ir)
 
@@ -31,7 +31,7 @@ Make sure you have **Node.js** (v16 or later) installed on your machine.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aabyab-website.git
+git clone https://github.com/jvd-malek/abyaab.git
 
 # Navigate into the project folder
 cd aabyab-website
