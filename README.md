@@ -1,6 +1,6 @@
 # Aabyab Website
 
-![Aabyab Logo](public/img/abyaab_logo.png)
+<img src="public/img/abyaab_logo.png" alt="Aabyab Logo" width="200"/>
 
 **Live Demo:** [abyaab.ir](http://abyaab.ir)
 
