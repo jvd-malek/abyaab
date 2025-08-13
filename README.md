@@ -38,3 +38,18 @@ cd aabyab-website
 
 # Install dependencies
 npm install
+
+# Development
+npm run dev
+
+# Production Build
+npm run build
+
+# Preview Production Biuld
+npm run preview
+```
+
+---
+
+## Licence
+This project is licensed under the MIT Licence
